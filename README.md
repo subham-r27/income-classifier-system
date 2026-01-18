@@ -1,6 +1,10 @@
 # Income Prediction System
 
-A web application for predicting whether an individual's income is greater than or less than $50,000 using machine learning models. The system supports two models: K-Nearest Neighbors (KNN) and Logistic Regression.
+A web application for predicting whether an individual's income is greater than or less than $50,000 using machine learning models. The system supports two models: K-Nearest Neig
+
+https://github.com/user-attachments/assets/3e577fd9-1de3-4cc0-a59c-3b5c28f3b81a
+
+hbors (KNN) and Logistic Regression.
 
 ## Features
 
