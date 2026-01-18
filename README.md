@@ -160,22 +160,6 @@ Model development and training notebooks are located in the `dev/` directory:
 - `knn_model.ipynb`: KNN model development and training
 - `log_reg_model.ipynb`: Logistic Regression model development and training
 
-## Troubleshooting
-
-### Server won't start
-- Ensure all dependencies are installed: `pip install -r requirements.txt`
-- Check that port 8000 is not already in use
-- Verify Python version is 3.8 or higher
-
-### "Failed to load form options" error
-- Ensure the dataset file exists at `datasets/income(1).csv`
-- Check server logs for error messages
-- Verify model files exist in `dev/models/` directory
-
-### Model prediction errors
-- Ensure all form fields are filled correctly
-- Check that model files are properly loaded (check server startup logs)
-- Verify the input data matches the expected format
 
 ## License
 
